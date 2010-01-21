@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.9">
+  <compounddef id="dir_85d22face437216f5eda4e00e8403b90" kind="dir">
+    <compoundname>/MyTools/BuildDoxycleanDocsExample/</compoundname>
+    <innerfile refid="_build_doxyclean_docs_example_app_delegate_8h">BuildDoxycleanDocsExampleAppDelegate.h</innerfile>
+    <innerfile refid="_build_doxyclean_docs_example_app_delegate_8m">BuildDoxycleanDocsExampleAppDelegate.m</innerfile>
+    <innerfile refid="main_8m">main.m</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/MyTools/BuildDoxycleanDocsExample/"/>
+  </compounddef>
+</doxygen>

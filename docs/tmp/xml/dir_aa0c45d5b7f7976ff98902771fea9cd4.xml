@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.9">
+  <compounddef id="dir_aa0c45d5b7f7976ff98902771fea9cd4" kind="dir">
+    <compoundname>/MyTools/</compoundname>
+    <innerdir refid="dir_85d22face437216f5eda4e00e8403b90">/MyTools/BuildDoxycleanDocsExample/</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/MyTools/"/>
+  </compounddef>
+</doxygen>

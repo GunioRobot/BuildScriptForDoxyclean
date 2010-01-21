@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.9">
+  <compounddef id="interface_build_doxyclean_docs_example_app_delegate" kind="class" prot="public">
+    <compoundname>BuildDoxycleanDocsExampleAppDelegate</compoundname>
+    <includes refid="_build_doxyclean_docs_example_app_delegate_8h" local="no">BuildDoxycleanDocsExampleAppDelegate.h</includes>
+      <sectiondef kind="user-defined">
+      <header>Getting the class properties</header>
+      <memberdef kind="property" id="interface_build_doxyclean_docs_example_app_delegate_11b833f7b129503ac6b738652c2348dff" prot="public" static="no" readable="yes" writable="yes" gettable="no" settable="no">
+        <type>IBOutlet NSWindow *</type>
+        <definition>IBOutlet NSWindow* BuildDoxycleanDocsExampleAppDelegate::window</definition>
+        <argsstring></argsstring>
+        <name>window</name>
+        <read></read>
+        <write></write>
+        <briefdescription>
+<para>This is a property of the <ref refid="interface_build_doxyclean_docs_example_app_delegate" kindref="compound">BuildDoxycleanDocsExampleAppDelegate</ref>. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>@param</parametername>
+</parameternamelist>
+<parameterdescription>
+<para></para></parameterdescription>
+</parameteritem>
+</parameterlist>
+just a window no need for details here,</para><para><simplesect kind="return"><para>returns an NSWindow object </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/MyTools/BuildDoxycleanDocsExample/BuildDoxycleanDocsExampleAppDelegate.h" line="40" bodyfile="/MyTools/BuildDoxycleanDocsExample/BuildDoxycleanDocsExampleAppDelegate.h" bodystart="40" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-attrib">
+      <memberdef kind="variable" id="interface_build_doxyclean_docs_example_app_delegate_14c1a6598869d269d093b3d49f510d451" prot="protected" static="no" mutable="no">
+        <type>NSWindow *</type>
+        <definition>NSWindow* BuildDoxycleanDocsExampleAppDelegate::window</definition>
+        <argsstring></argsstring>
+        <name>window</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/MyTools/BuildDoxycleanDocsExample/BuildDoxycleanDocsExampleAppDelegate.h" line="16" bodyfile="/MyTools/BuildDoxycleanDocsExample/BuildDoxycleanDocsExampleAppDelegate.h" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="interface_build_doxyclean_docs_example_app_delegate_133943c8050a98a5298f64c6358bbbc94" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void BuildDoxycleanDocsExampleAppDelegate::applicationDidFinishLaunching:</definition>
+        <argsstring>(NSNotification *aNotification)</argsstring>
+        <name>applicationDidFinishLaunching:</name>
+        <param>
+          <type>NSNotification *</type>
+          <declname>aNotification</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/MyTools/BuildDoxycleanDocsExample/BuildDoxycleanDocsExampleAppDelegate.m" line="15" bodyfile="/MyTools/BuildDoxycleanDocsExample/BuildDoxycleanDocsExampleAppDelegate.m" bodystart="15" bodyend="17"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>This is an example header where you would explain general details of a class </para>    </detaileddescription>
+    <location file="/MyTools/BuildDoxycleanDocsExample/BuildDoxycleanDocsExampleAppDelegate.h" line="15" bodyfile="/MyTools/BuildDoxycleanDocsExample/BuildDoxycleanDocsExampleAppDelegate.h" bodystart="15" bodyend="-1"/>
+    <listofallmembers>
+      <member refid="interface_build_doxyclean_docs_example_app_delegate_133943c8050a98a5298f64c6358bbbc94" prot="public" virt="virtual"><scope>BuildDoxycleanDocsExampleAppDelegate</scope><name>applicationDidFinishLaunching:</name></member>
+      <member refid="interface_build_doxyclean_docs_example_app_delegate_14c1a6598869d269d093b3d49f510d451" prot="protected" virt="non-virtual"><scope>BuildDoxycleanDocsExampleAppDelegate</scope><name>window</name></member>
+      <member refid="interface_build_doxyclean_docs_example_app_delegate_11b833f7b129503ac6b738652c2348dff" prot="public" virt="non-virtual"><scope>BuildDoxycleanDocsExampleAppDelegate</scope><name>window</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

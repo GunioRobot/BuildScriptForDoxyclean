@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.5.9">
+  <compound refid="interface_build_doxyclean_docs_example_app_delegate" kind="class"><name>BuildDoxycleanDocsExampleAppDelegate</name>
+    <member refid="interface_build_doxyclean_docs_example_app_delegate_11b833f7b129503ac6b738652c2348dff" kind="property"><name>window</name></member>
+    <member refid="interface_build_doxyclean_docs_example_app_delegate_14c1a6598869d269d093b3d49f510d451" kind="variable"><name>window</name></member>
+    <member refid="interface_build_doxyclean_docs_example_app_delegate_133943c8050a98a5298f64c6358bbbc94" kind="function"><name>applicationDidFinishLaunching:</name></member>
+  </compound>
+  <compound refid="_build_doxyclean_docs_example_app_delegate_8h" kind="file"><name>BuildDoxycleanDocsExampleAppDelegate.h</name>
+  </compound>
+  <compound refid="_build_doxyclean_docs_example_app_delegate_8m" kind="file"><name>BuildDoxycleanDocsExampleAppDelegate.m</name>
+  </compound>
+  <compound refid="main_8m" kind="file"><name>main.m</name>
+    <member refid="main_8m_10ddf1224851353fc92bfbff6f499fa97" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="dir_85d22face437216f5eda4e00e8403b90" kind="dir"><name>/MyTools/BuildDoxycleanDocsExample/</name>
+  </compound>
+  <compound refid="dir_aa0c45d5b7f7976ff98902771fea9cd4" kind="dir"><name>/MyTools/</name>
+  </compound>
+</doxygenindex>

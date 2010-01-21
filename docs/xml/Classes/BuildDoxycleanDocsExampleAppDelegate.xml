@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><object kind="class">
+  <name>BuildDoxycleanDocsExampleAppDelegate</name>
+  <file>BuildDoxycleanDocsExampleAppDelegate.h</file>
+  <description>
+    <brief/>
+    <details>
+      <para>This is an example header where you would explain general details of a class </para>
+    </details>
+  </description>
+  <sections>
+    <section>
+      <name>Getting the class properties</name>
+      <member kind="property">
+        <name>window</name>
+        <type>IBOutlet <ref id="http://developer.apple.com/mac/library/documentation/Cocoa/Reference/ApplicationKit/Classes/NSWindow_Class/index">NSWindow</ref> *</type>
+        <prototype>@property IBOutlet <ref id="http://developer.apple.com/mac/library/documentation/Cocoa/Reference/ApplicationKit/Classes/NSWindow_Class/index">NSWindow</ref> *window</prototype>
+        <file><ref id="../Classes/BuildDoxycleanDocsExampleAppDelegate">BuildDoxycleanDocsExampleAppDelegate</ref>.h</file>
+        <description>
+          <brief>
+            <para>This is a property of the <ref id="../Classes/BuildDoxycleanDocsExampleAppDelegate">BuildDoxycleanDocsExampleAppDelegate</ref>. </para>
+          </brief>
+          <details>
+            <para>
+just a window no need for details here,</para>
+            <para/>
+          </details>
+        </description>
+        <parameters>
+          <param>
+            <name>@param</name>
+            <description>
+              <para/>
+            </description>
+          </param>
+        </parameters>
+        <return>
+          <para>returns an <ref id="http://developer.apple.com/mac/library/documentation/Cocoa/Reference/ApplicationKit/Classes/NSWindow_Class/index">NSWindow</ref> object </para>
+        </return>
+      </member>
+    </section>
+  </sections>
+</object>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<project name="MacFlite Software">
+	<object kind="class">
+		<name>
+			BuildDoxycleanDocsExampleAppDelegate
+		</name>
+	</object>
+</project>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.5.9">
+  <compounddef id="_build_doxyclean_docs_example_app_delegate_8h" kind="file">
+    <compoundname>BuildDoxycleanDocsExampleAppDelegate.h</compoundname>
+    <includes local="no">Cocoa/Cocoa.h</includes>
+    <includedby refid="_build_doxyclean_docs_example_app_delegate_8m" local="yes">/MyTools/BuildDoxycleanDocsExample/BuildDoxycleanDocsExampleAppDelegate.m</includedby>
+    <incdepgraph>
+      <node id="1">
+        <label>Cocoa/Cocoa.h</label>
+      </node>
+      <node id="0">
+        <label>/MyTools/BuildDoxycleanDocsExample/BuildDoxycleanDocsExampleAppDelegate.h</label>
+        <link refid="BuildDoxycleanDocsExampleAppDelegate.h"/>
+        <childnode refid="1" relation="include">
+        </childnode>
+      </node>
+    </incdepgraph>
+    <innerclass refid="interface_build_doxyclean_docs_example_app_delegate" prot="public">BuildDoxycleanDocsExampleAppDelegate</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="comment">//<sp/><sp/>BuildDoxycleanDocsExampleAppDelegate.h</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="comment">//<sp/><sp/>BuildDoxycleanDocsExample</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="comment">//<sp/><sp/>Created<sp/>by<sp/>Steve<sp/>Mcferrin<sp/>on<sp/>1/21/10.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="comment">//<sp/><sp/>Copyright<sp/>2010<sp/>MacFlite<sp/>Software.<sp/>All<sp/>rights<sp/>reserved.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="7"><highlight class="normal"></highlight><highlight class="comment">//</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="8"><highlight class="normal"></highlight></codeline>
+<codeline lineno="9"><highlight class="normal"></highlight><highlight class="preprocessor">#import<sp/>&lt;Cocoa/Cocoa.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="15" refid="interface_build_doxyclean_docs_example_app_delegate" refkind="compound"><highlight class="keyword">@interface<sp/></highlight><highlight class="normal"><ref refid="interface_build_doxyclean_docs_example_app_delegate" kindref="compound">BuildDoxycleanDocsExampleAppDelegate</ref><sp/>:<sp/>NSObject<sp/>&lt;NSApplicationDelegate&gt;<sp/>{</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/>NSWindow<sp/>*window;</highlight></codeline>
+<codeline lineno="17"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="40" refid="interface_build_doxyclean_docs_example_app_delegate_11b833f7b129503ac6b738652c2348dff" refkind="member"><highlight class="normal">@property<sp/>(assign)<sp/>IBOutlet<sp/>NSWindow<sp/>*window;</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"></highlight></codeline>
+<codeline lineno="42"><highlight class="normal">@end</highlight></codeline>
+    </programlisting>
+    <location file="/MyTools/BuildDoxycleanDocsExample/BuildDoxycleanDocsExampleAppDelegate.h"/>
+  </compounddef>
+</doxygen>

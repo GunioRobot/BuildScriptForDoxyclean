@@ -1,0 +1,13 @@
+# This is the config file to create documentation for your xcode
+# project using doxygen_docgen.rb
+
+project_name: MacFlite\ Software										
+documnetation_dir: docs															
+doxygen_output_dir: /docs/tmp/xml										
+doxyclean_input_dir: /docs/tmp											
+doxyclean_html_output_dir: /docs/html								
+doxyclean_xml_output_dir: /docs/xml									
+doxyclean_exec_dir: /MyTools/doxyclean/doxyclean.py	
+doxygen_config: /Doxyfile
+doxygen_exec_dir: /usr/local/bin/doxygen
+
